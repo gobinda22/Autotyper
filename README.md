@@ -8,4 +8,4 @@
 7. Boom! its start typing 
 (You can change the typing speed by changing the interval)
 
-# Important: It can type only in small letter or upper. Hello(Not) hello(yes) HELLO(yes)
+ Important: It can type only in small letter or upper. Hello(Not) hello(yes) HELLO(yes)
